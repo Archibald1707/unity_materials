@@ -4,5 +4,6 @@ Repo for the materials i created trying to produce a decent game.
 
 # Links
 Currently this repo contains:
-* [scripts](https://github.com/Archibald1707/unity_materials/tree/main/Scripts)
-* [sprites](https://github.com/Archibald1707/unity_materials/tree/main/Sprites)
+* [Scripts](https://github.com/Archibald1707/unity_materials/tree/main/Scripts)
+* [Sprites](https://github.com/Archibald1707/unity_materials/tree/main/Sprites)
+* [Pixelation](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/pixelation-65554)
